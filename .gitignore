@@ -1,2 +1,5 @@
 node_modules
-How to Run this Project.pdf
+# How to Run this Project.pdf
+# Ignore .env inside server folder
+/server/.env
+'How to Run this project.pdf'
